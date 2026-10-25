@@ -8,3 +8,5 @@ Main components per lamp post node:
 - ambient light sensor (BH1750)
 - sub-GHz radio module (RFM69HCW 868 MHz)
 - onboard RGB LED, driven by PWM
+
+Some benefits of this project are reduced light pollution in low-traffic areas (such as rural areas) and the possibility of reducing energy consumption.
