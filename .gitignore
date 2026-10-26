@@ -1,0 +1,19 @@
+# build outputs
+*.elf
+*.bin
+*.img
+*.map
+*.dis
+*.json
+*.asc
+*.rpt
+*.vcd
+Mem_per/icestorm/code.hex
+Mem_per/icestorm/rom.hex
+Mem_per/c/main.hex
+Mem_per/boot/main.hex
+Mem_per/icarus/fr/
+Mem_per/icarus/tb_freertos
+Mem_per/icarus/tb_system
+# fetched separately
+Mem_per/FreeRTOS-Kernel/
